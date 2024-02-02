@@ -1,6 +1,6 @@
 # Simple-Calculations
-Simple Calculations Python script for school project
----
+
+Simple Calculations Python script for school work
 
 ## Flowchat
 
